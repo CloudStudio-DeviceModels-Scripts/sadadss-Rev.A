@@ -23,7 +23,7 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 - [Gear Studio Documentation – Data Processing](https://wiki.cloud.studio/es/page/200)
 - [Cloud Studio Official Website](https://www.cloud.studio/)
-- [@DarkSylver](https://github.com/DarkSylver)
+- [Cristian M. Zangaro](https://github.com/DarkSylver)
 
 ---
 
